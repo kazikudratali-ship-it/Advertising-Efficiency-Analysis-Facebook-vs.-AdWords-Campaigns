@@ -9,10 +9,10 @@ The dataset comprises a collection of data comparing the performance of two sepa
 • Conducted A/B testing analysis for marketing agency on annual Facebook and AdWords campaigns, analyzing daily data and KPIs to demonstrate cost-effectiveness of the superior platform through statistical evidence, enabling data-driven decisions for clients • Optimized resource allocation, resulting in 30% increase in conversions and 15% reduction in costs, enhancing client ROI
 
 # Technical Aspects :
-Pandas
-Numpy
-Matplotlib, Seaborn
-Scikit-Learn
-Hypothesis Testing
-Regression Analysis
-A/B testing
+  1.Pandas
+  2.Numpy
+  3.Matplotlib, Seaborn
+  4.Scikit-Learn
+  5.Hypothesis Testing
+  6.Regression Analysis
+  7.A/B testing
